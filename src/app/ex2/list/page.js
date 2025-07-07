@@ -6,6 +6,8 @@ export const metadata = {
   description: '메타 태그 테스트 입니다. ',
 };
 
+
+
 export default function Ex2ListPage() {
 
 
